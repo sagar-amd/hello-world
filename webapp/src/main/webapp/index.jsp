@@ -1,4 +1,4 @@
-<form action="action_page.php">
+<form action="action_page.php"; >
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
@@ -36,7 +36,7 @@
    <h1 style="color:blue;">Visit Again !!!</h1>
 
    <h1 style="color:red;">For contact +91-7989507173</h1>
-   <h1 style="color:lime;">Good luck</h1>
+   <h1 style="color:lime; text-align: center;">Good luck</h1>
    
 
   
